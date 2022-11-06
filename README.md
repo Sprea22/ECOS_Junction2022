@@ -7,12 +7,16 @@ ECOScore brings meritocracy into the electricity bill, reducing fees for virtuou
 [Demetrio Carrara](https://www.linkedin.com/in/demetrio-carrara-051ab6122/) | carrarademetrio@gmail.com \
 [Chiara Sergio](https://www.linkedin.com/in/chiara-sergio-/) | chiara.sergio@aalto.fi 
 
+![Cover Image](https://github.com/Sprea22/ECOS_Junction2022/blob/main/Pics/Cover.PNG)
+
 ## Problem Statement
 The problem of energy consumption is an ever-increasing problem, being both the increase in energy use and the increase in energy costs. The network and the system has a limit that it can support, beyond which there would be a power outage, which is getting more and more probable.
 
 ## Our Solution: ECOScore
 ECOScore aims to reduce electricity misusage within households, thanks to a Scalable AI Approach based on Cloud and a focus on fairness, meritocracy and explainability.
 Given a group of similar consumers, ECOScore quantifies how good an household consumption is compared with the rest of the peers within the same group.
+
+![Cover Image](https://github.com/Sprea22/ECOS_Junction2022/blob/main/Pics/ECOS.PNG)
 
 ## How it works
 Firstly, to calculate the ECOScore, we take into account anagraphic information regarding the consumers and group them into clusters. 
@@ -23,6 +27,8 @@ At this point an ECOScore is assigned to each customer, which identify how good 
 The ECOScore can be used from both Electricity Providers and Public entities, in order to bring meritocracy into the electricity bill, reducing fees for virtuous households.
 This would be the starting point to obtain a systematic energy optimization.
 In fact, replacing part of the fixed costs of electricity taxes with a variable fee based on ECOScore, would allow them to have more influence on consumers behaviour. giving them the possibility to drive an overall decrease consumption of electricity 
+
+![Cover Image](https://github.com/Sprea22/ECOS_Junction2022/blob/main/Pics/CaseStudies.PNG)
 
 ## Business Model
 ECOS locates itself as a SaaS B2B business.
