@@ -10,7 +10,8 @@ ECOScore brings meritocracy into the electricity bill, reducing fees for virtuou
 ![Cover Image](https://github.com/Sprea22/ECOS_Junction2022/blob/main/Pics/Cover.PNG)
 
 ## Problem Statement
-The problem of energy consumption is an ever-increasing problem, being both the increase in energy use and the increase in energy costs. The network and the system has a limit that it can support, beyond which there would be a power outage, which is getting more and more probable.
+Disattentive energy consumption in households is an ever-increasing problem, resulting in inefficient infrastructure usage.
+Electrical grid capacities have limits, beyond which the system would collapse leading to disruptive power outages. Finland is more at risk now than ever.
 
 ## Our Solution: ECOScore
 ECOScore aims to reduce electricity misusage within households, thanks to a Scalable AI Approach based on Cloud and a focus on fairness, meritocracy and explainability.
